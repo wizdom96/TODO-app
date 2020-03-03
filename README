@@ -8,6 +8,7 @@
 * Edit the .env file to your linking
 * artisan ui vue --auth
 * npm install && npm run dev
+*composer require fzaninotto/faker --dev
 * artisan migrate
 * artisan db:seed
 * artisan key:generate
