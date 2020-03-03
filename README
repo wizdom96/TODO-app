@@ -1,0 +1,20 @@
+# Laravel Test
+
+
+## Installing
+* git clone https://github.com/wizdom96/Laravel-test.git
+* cd Laravel-test
+* composer require laravel/ui
+* Edit the .env file to your linking
+* artisan ui vue --auth
+* npm install && npm run dev
+* artisan migrate
+* artisan db:seed
+* artisan key:generate
+
+## Default Login !!!
+
+* example@test.com|password 
+* example1@test.com|password 
+
+
